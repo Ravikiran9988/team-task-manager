@@ -151,7 +151,7 @@ cd frontend && npm install && npm run dev
 
 ## 👨‍💻 Author
 
-Your Name
+Ravi Kiran
 https://github.com/Ravikiran9988
 
 ------------------------------------------------------------------------
