@@ -20,13 +20,13 @@ Member).
 
 ## 📽️ Demo Video
 
-👉 Add your demo video link here
+👉 https://www.loom.com/share/247974b510024825b578e9d88f7421d2
 
 ------------------------------------------------------------------------
 
 ## 📸 Screenshots
 
-*Add screenshots here (Dashboard, Project Page, Task UI)*
+
 
 ------------------------------------------------------------------------
 
