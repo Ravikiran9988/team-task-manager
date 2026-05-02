@@ -26,7 +26,28 @@ Member).
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
 
+### 🔐 Login Page
+![Login](./Screenshots/login.png)
+
+### 📁 Project Creation
+![Project Creation](./Screenshots/ProjectCreation.png)
+
+### 📂 Projects Page
+![Projects](./Screenshots/Projects.png)
+
+### 👥 Add Member
+![Add Member](./Screenshots/AddMember.png)
+
+### 📋 Assign Task
+![Assign Task](./Screenshots/AssignTask.png)
+
+### 📊 Dashboard
+![Dashboard](./Screenshots/dashboard.png)
+
+### 💻 Code Structure
+![Code](./Screenshots/code.png)
 
 ------------------------------------------------------------------------
 
