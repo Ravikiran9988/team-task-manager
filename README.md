@@ -12,7 +12,7 @@ Member).
 
 ## 🚀 Live Demo
 
--   🌐 Frontend: https://team-task-manager-wine.vercel.app\
+-   🌐 Frontend: https://team-task-manager-wine.vercel.app/login
 -   🔗 Backend API:
     https://team-task-manager-backend-it06.onrender.com/api
 
