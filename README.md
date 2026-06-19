@@ -26,8 +26,6 @@ Member).
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🔐 Login Page
 ![Login](./Screenshots/login.png)
 
